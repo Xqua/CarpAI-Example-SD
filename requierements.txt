@@ -1,0 +1,4 @@
+numpy
+diffusers
+transformers
+accelerate
